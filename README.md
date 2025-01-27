@@ -8,7 +8,7 @@ A new electron accelerator, Rhodotron, has been designed and constructed at Boğ
 [![Python Simulation](media/python_sim_thumbnail.png)](media/python_sim_result.mp4)
 
 ## Solid-State Marx Generator Test Setup
-![Marx Generator Test Setup](media/marx_testsetup.png)
+![Marx Generator Test Setup](media/marx_testsetup.jpg)
 
 ## Solid-State Marx Generator Test Result
 ![Marx Generator Test Output](media/marx_output.png)
