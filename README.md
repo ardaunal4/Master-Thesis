@@ -6,3 +6,12 @@ A new electron accelerator, Rhodotron, has been designed and constructed at Boğ
 
 ## Python Simulation:
 [![Python Simulation](media/python_sim_thumbnail.png)](media/python_sim_result.mp4)
+
+## Solid-State Marx Generator Test Setup
+![Marx Generator Test Setup](media/marx_testsetup.png)
+
+## Solid-State Marx Generator Test Result
+![Marx Generator Test Output](media/marx_output.png)
+
+## Control GUI to control MCU via Computer
+![Marx Generator Control GUI](media/control_gui.png)
